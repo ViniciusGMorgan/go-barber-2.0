@@ -41,8 +41,7 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 
 ```bash
   # Clonar o projeto:
-  $ git clone https://github.com/ViniciusGMorgan/gobarber-2.0 gobarber
-
+  $ git clone https://github.com/ViniciusGMorgan/go-barber-2.0.git
   # Entrar no diretório:
   $ cd gobarber
 ```
