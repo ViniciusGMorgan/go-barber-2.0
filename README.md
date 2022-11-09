@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gobarber_19xmN2BUU.svg" width="250px" />
+    <img alt="Gobarber" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033564/images/gobarber/logo-gobarber_flopcn.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1591099832/gobarber_wadrfc.gif" />
-    <img alt="GoBarber Mobile" src="https://res.cloudinary.com/matheuspires/image/upload/v1592746410/gobarber-mobile_zfchn9.gif" />
+    <img alt="GoBarber" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033614/images/gobarber/home-gobarber_qwe87h.gif" />
+    <img alt="GoBarber Mobile" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033630/images/gobarber/mobile-gobarber_w6bsct.gif" />
 </h1>
 
 ## :page_with_curl: Sobre
@@ -41,7 +41,7 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 
 ```bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gobarber-2.0 gobarber
+  $ git clone https://github.com/ViniciusGMorgan/gobarber-2.0 gobarber
 
   # Entrar no diretório:
   $ cd gobarber

@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias:
 
-Esse projeto foi desenvolvido no Bootcamp GoStack 11.0 da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido no Bootcamp GoStack 11.0 da Rocketseat com as segu
 - [React Spring](https://www.react-spring.io/)
 - [Skeleton Loading](https://www.npmjs.com/package/react-loading-skeleton)
 
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
+Feito com ❤️ por Vinicius Morgan👋🏻 [Get in touch!](https://github.com/ViniciusGMorgan)
