@@ -11,9 +11,9 @@
   <a href="#iphone-iniciando-mobile">React Native</a>
 </p>
 
-<div style="display:'flex'">
-    <img alt="GoBarber" width="65%" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033614/images/gobarber/home-gobarber_qwe87h.gif" />
-    <img alt="GoBarber Mobile" width="35%" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668034398/images/gobarber/Screenshot_2_s2vlmr.png" />
+<div align='center'>
+    <img alt="GoBarber" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033614/images/gobarber/home-gobarber_qwe87h.gif" />
+    <img alt="GoBarber Mobile" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668034398/images/gobarber/Screenshot_2_s2vlmr.png" />
 </div>
 
 ## :page_with_curl: Sobre
