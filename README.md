@@ -12,7 +12,7 @@
 </p>
 
 <div align='center'>
-    <img alt="GoBarber" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668033614/images/gobarber/home-gobarber_qwe87h.gif" />
+    <img alt="GoBarber" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668034398/images/gobarber/Screenshot_1_oefpq4.png" />
     <img alt="GoBarber Mobile" src="https://res.cloudinary.com/dnaeheznz/image/upload/v1668034398/images/gobarber/Screenshot_2_s2vlmr.png" />
 </div>
 
